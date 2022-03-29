@@ -12,9 +12,11 @@ Untuk membuat tipe data pada Java kita dapat menuliskanya dengan kata kunci tipe
 <tipe data> <nama variabel> = <nilai data>
 ```
 ```java
+// Cara 1 (Deklrasi)
 int nilaiUjian;
 nilaiUjian = 100;
 
+// Cara 2 (Insialisasi)
 String nama = "Eren Yeager";
 
 System.out.println(nilaiUjian);
