@@ -95,7 +95,7 @@ Dapat dilihat dari output di atas. terjadi perubahan nilai pada tipe data short 
 
 ASCII (American Standard Code for Information Interchange) adalah sebuah standar baku yang digunakan untuk kode sebuah Character (char).
 
-Informasi dari ASCII dapat digunakan untuk mengkonversi dari tipe data Character ke tipe data Numeric
+Informasi dari ASCII dapat digunakan untuk mengkonversi dari tipe data Character ke tipe data Numeric atau sebaliknya
 
 ```go
 public class ASCII {
