@@ -1,9 +1,9 @@
 ---
-sidebar_position: 3
-slug: /array/perkenalanarray
+sidebar_position: 11
+slug: /perkenalan-array
 ---
 
-# B.1 Array 1 Dimensi
+# A.11 Array 1 Dimensi
 
 ## Apa Itu Array
 Array merupakan sebuah variabel yang dapat menyimpan banyak data dalam satu variabel. Tipe data yang disimpan dalam suatu array harus bertipe sama. Array menggunakan indeks untuk mengakses data-data yang disimpannya. 
@@ -20,7 +20,7 @@ Array merupakan sebuah variabel yang dapat menyimpan banyak data dalam satu vari
 ### Deklarasi
 Deklarasi array pada java hampir sama seperti deklarasi variabel biasa. Hanya perlu ditambahkan kurung siku ([]) setelah tipe data atau setelah nama variabel (nama array).
 
-```go
+```java
 package main;
 public class Main(){
   public static void main(String[] args){
@@ -34,7 +34,7 @@ public class Main(){
 Instantiasi array dapat dilakukan dengan menambahkan keyword new dan diikuti tipe data dengan
 [(banyaknya elemen )]
 
-```go
+```java
 package main;
 public class Main(){
   public static void main(String[] args){
@@ -47,7 +47,7 @@ public class Main(){
 ### Inisialisasi
 Inisialisasi array dapat dilakukan dengan langsung menginputkan data saat deklarasi array.
 
-```go
+```java
 package main;
 public class Main(){
   public static void main(String[] args){
@@ -61,7 +61,7 @@ public class Main(){
 Pengaksesan Array pada java dapat dilakukan dengan memanfaatkan index array.
 Jika index diakses berada di luar range array yang dibuat maka akan menimbulkan Range Out Of Bound Error
 
-```go
+```java
 package main
 public class AksesArray{
   public static void main(String[] args){
@@ -94,10 +94,10 @@ Package java.util.Arrays menyediakan method - method yang berguna untuk melakuka
 Implementasinya dapat langsung dengan import package tersebut di class secara langsung.
 Berikut merupakan list method - method yang dapat dipakai
 
-### sort
+### `Arrays.sort()`
 Mengurutkan array secara menaik berdasarkan natural ordering dari elemen tersebut.
 
-```go
+```java
 package main
 import java.util.Arrays;
 
@@ -139,11 +139,11 @@ Element Ketiga  pisang
 Element Keempat semangka
 ```
 
-### binarySearch
+### `Arrays.binarySearch()`
 
-Mencari elmeen pada array menggunakan metode algoritma binary search. Array yang ingin dicari sebelumnya harus sudah di diurutkan terlebih dahulu. jika ada lebih dari satu elemen sama yang dicari, maka index yang dikembalikan tidak menentu
+Mencari elmeen pada array menggunakan metode aljavaritma binary search. Array yang ingin dicari sebelumnya harus sudah di diurutkan terlebih dahulu. jika ada lebih dari satu elemen sama yang dicari, maka index yang dikembalikan tidak menentu
 
-```go
+```java
 package main
 import java.util.Arrays;
 
@@ -168,11 +168,11 @@ Output:
 pisang Berada di Index 2
 ```
 
-### equals
+### `Arrays.equals()`
 
 Memeriksa 2 buah array apakah sama satu dengan lainnya.  2 buah array dapat dikatakan sama apabila memiliki jumlah elemen yang sama dan semua element di index yang bersesuaian dari kedua array tersebut sama
 
-```go
+```java
 package main
 import java.util.Arrays;
 
@@ -194,11 +194,11 @@ Woody : Buzz = true
 Woody : Andy = false
 ```
 
-### toString
+### `Arrays.toString()`
 
 Mengembalikan sebuah representasi tipe data string dari sebuah array
 
-```go
+```java
 package main
 import java.util.Arrays;
 

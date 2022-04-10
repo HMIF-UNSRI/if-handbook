@@ -1,9 +1,9 @@
 ---
-sidebar_position: 3
-slug: /array/arraymultidimensi
+sidebar_position: 12
+slug: /array-multidimensi
 ---
 
-# B.2 Array Multidimensi
+# A.12 Array Multidimensi
 
 Pada bagian sebelumnya, telah dijelaskan tentang Array 1 Dimensi. Bagian kali ini akan berfokus ke Array Multidimensi
 
