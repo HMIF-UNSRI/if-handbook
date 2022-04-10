@@ -3,7 +3,7 @@ sidebar_position: 7
 slug: /casting
 ---
 
-# A.7 Casting
+# A.7 Teknik Konversi (Casting)
 
 ## Casting Tipe Data
 
