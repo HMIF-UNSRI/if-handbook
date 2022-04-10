@@ -21,6 +21,7 @@ pada [github.com/hmif-unsri/if-handbook](https://github.com/hmif-unsri/if-handbo
 <table>
     <tr>
         <td align="center"><a href="https://www.linkedin.com/in/arya-yunanta-255424174/"><img src="https://avatars.githubusercontent.com/u/77351340?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Arya Yunanta</b></sub></a></td>
+        <td align="center"><a href="https://www.linkedin.com/in/tegar-cahya-bayu-siregar-2915a021b/"><img src="https://avatars.githubusercontent.com/u/64503005?v=4" width="100px;" alt=""/><br /><sub><b>Tegar Cahya Bayu Siregar</b></sub></a></td>
         <td align="center"><a href="https://github.com/jvncmrgn"><img src="https://avatars.githubusercontent.com/u/98507860?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jovanic Morgan</b></sub></a></td>
     </tr>
 </table>
